@@ -1,0 +1,5 @@
+CFG_REDIS_HOSTNAME="redis50.localhost"
+
+#
+#CFG_LANG="de_DE.UTF-8"
+#CFG_TIMEZONE="Europe/Berlin"
